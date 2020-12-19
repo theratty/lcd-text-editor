@@ -12,3 +12,5 @@
 <b>LCD text editor</b> is a project written as part of the subject of microprocessor techniques at AGH UST. It's the software created with simplified assembly language for the PicoBlaze 8-bit embedded microcontroller. This microcontroller is a softcore, which bitstream is implemented into FPGA (Spartan-3A/3AN FPGA Starter Kit Board).
 
 Its purpose is to handle the keyboard connected via the PS/2 interface and allow the user to type and edit text on the LCD display built into the FPGA.
+
+As the language of the lectures was Polish, the documentation is also in Polish.
